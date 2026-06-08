@@ -121,13 +121,14 @@ Through this project, I learned:
 
 ## 📸 Dashboard Preview
 
-sales and qunatity waise analysis
+sales and qunatity waise analysis :
 https://github.com/Aakash-mandal07/Farmer-Market-Dashboard/blob/main/Sales%20and%20quantity%20waise%20analysis.png
 
-sales waise analysis
+sales waise analysis :
 https://github.com/Aakash-mandal07/Farmer-Market-Dashboard/blob/main/Sales%20waise%20analysis.png
 
-qunatity waise analysis
+qunatity waise analysis :
+https://github.com/Aakash-mandal07/Farmer-Market-Dashboard/blob/main/quantity%20waise%20analysis.png
 
 ---
 
