@@ -121,7 +121,7 @@ Through this project, I learned:
 
 ## 📸 Dashboard Preview
 
-[**(Add dashboard screenshots here)
+
 ](https://github.com/Aakash-mandal07/Farmer-Market-Dashboard/blob/main/Screenshot%202026-06-08%20082532.png)**
 ---
 
